@@ -1,0 +1,59 @@
+body {
+  background-color: var(--background-body-color);
+  font-family: "Outfit", sans-serif;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/* CARD */
+.card {
+  background-color: var(--background-card-color);
+  width: 320px;
+  border-radius: 20px;
+}
+
+.card .qr-code img {
+  max-width: 288px;
+  margin-top: 16px;
+  border-radius: 10px;
+}
+
+.card .content .title {
+  color: var(--title-color);
+  font-size: var(--title-font-size);
+  font-weight: var(--title-font-weight);
+  line-height: var(--title-line-height);
+  letter-spacing: var(--title-letter-spacing);
+  margin: 24px 32px 16px;
+}
+
+.card .content .text {
+  color: var(--text-color);
+  font-size: var(--text-font-size);
+  font-weight: var(--text-font-weight);
+  line-height: var(--text-line-height);
+  letter-spacing: var(--text-letter-spacing);
+  margin: 0 32px;
+  padding-bottom: 40px;
+}
+
+/* ATTRIBUTION */
+
+.attribution {
+  font-size: 11px;
+  color: hsl(216, 15%, 48%);
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  background-color: hsl(0, 0%, 100%, 80%);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
