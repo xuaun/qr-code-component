@@ -31,8 +31,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://your-solution-url.com)
-- Live Site URL: [Live Page](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/xuaun/qr-code-component)
+- Live Site URL: [Live Page](https://xuaun.github.io/qr-code-component/)
 
 ## My process
 
@@ -94,8 +94,8 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ### <p id="links-pt">Links</p>
 
-- Link da solução: [Repositório no GitHub](https://your-solution-url.com)
-- Site com a solução: [Página no ar](https://your-live-site-url.com)
+- Link da solução: [Repositório no GitHub](https://github.com/xuaun/qr-code-component)
+- Site com a solução: [Página no ar](https://xuaun.github.io/qr-code-component/)
 
 ## Meu processo
 
